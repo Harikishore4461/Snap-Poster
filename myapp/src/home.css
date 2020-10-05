@@ -1,0 +1,36 @@
+.home-person1{
+    height: 50px !important;
+    width:50px !important;
+    color:white !important;
+    background-color: rgba(0, 0, 0, 0.719)!important;
+}
+Iconbutton:active{
+    
+    outline: transparent !important;
+}
+
+.menu__bar{
+    background: linear-gradient(rgb(17, 159, 253),#7CD4D7) !important;
+}
+.nav{
+    float: right;
+    margin-right: auto;
+}
+.addicon{
+    margin:5px;
+}
+
+.btn-dark{
+color:tomato !important;
+}
+.dialogbox{
+    display:grid;
+    align-content: center;
+    justify-content: center;
+}
+.addphoto{
+    color:rgb(17, 159, 253) !important;
+    height: 50px !important;
+    width: 50px !important;
+
+}

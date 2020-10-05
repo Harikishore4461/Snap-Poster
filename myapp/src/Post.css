@@ -1,0 +1,36 @@
+.post{
+    display:grid;
+    width:100%;
+    height:10vh;
+    align-items: center;
+    justify-content: center;
+}
+.post__card{
+    background-color: whitesmoke;
+    /* padding: 30px; */
+    margin-top: 20px;
+}
+.post__header{
+    display:flex;
+    padding-top: 20px;
+    height:60px;
+    width:100%;
+    background-color: white;
+    padding:8px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    font-size:20px;
+}
+p{
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+.personicon{
+    /* height: 50px !important;
+    width:50px !important; */
+    /* margin-bottom:20px !important; */
+}
+.post__image{
+    padding: 0px 6px;
+}
